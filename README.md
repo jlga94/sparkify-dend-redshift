@@ -1,5 +1,5 @@
 # Data Warehouse with Redshift: Song Play Analysis
-
+> José Luis Gil Aguilar
 ## Project Summary
 
 This ETL Pipeline was designed for a startup **Sparkify**, who wants to analyze the data comming from their songs and user activity on their new music streaming app. This project creates a star-schema database using Amazon Redshift from a directory in S3 of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
